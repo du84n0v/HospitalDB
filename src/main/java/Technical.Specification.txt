@@ -1,0 +1,22 @@
+Hospital
+Farsaj help
+Biz shoshilinch tibbiy yordam xizmatini boshqarish uchun ma'lumotlar bazasini yaratishimiz kerak (103).
+
+Xar bir shifoxonaning yagona alphanumerik  kodi, nomi, ER bo’limining nomi,  adresi va telefon raqamlari ro’yxati  bo’ladi.
+
+Tez yordam transport vositasi moshina yokiy vertolot bo’lishi mumkin.  Xar bir tez yordam  transportining kodi bo’ladi.
+Xar bitta transport vositasi xar doim bitta kasalxonada to’xtab turadi.
+
+Tez yordam transportida xaydovchi va  tashuvchilar bor. Xar bitta xodimning snn raqami, ismi, familiyasi, manzili, tel raqami mavjut.
+Xaydovchilarning xaydovchilik guvoxnoma raqami ham bo’lishi kerak.
+
+Ish smenasining boshlang’ich vaqti va davomiylik soati bo’ladi.
+Xar bir xodim uchun ishlagan kunlik smenasini xotirada saqlashimiz kerak.
+Bir kunda bir xoim bir yokiy bir nechta smenda ishlashi mumkin.
+
+Bemor 103 ga sim-qoqqanida yangi xizmat yordami yaradiladi (EMS).
+ Xar bitta EMS ning  yilga bo’g’langan yagona kodi bo’ladi.
+ Xar bitta EMS xizmatida tez yordam transporti, xaydovchi va 2ta tashuvchi bo’ladi.
+ Bundan tashqari EMS xizmatda : xizmat amalga oshirilgan kun, shoshilinclik darajasi ( triage code) (green, yellow, red), bemorning ismi va oborilgan kasalxonaning kodi boladi.
+
+
