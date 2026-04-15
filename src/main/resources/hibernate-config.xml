@@ -17,6 +17,7 @@
         <mapping class="dasturlash.uz.entity.Transport"/>
         <mapping class="dasturlash.uz.entity.Employee"/>
         <mapping class="dasturlash.uz.entity.Driver"/>
+        <mapping class="dasturlash.uz.entity.WorkShift"/>
 
     </session-factory>
 
